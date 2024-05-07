@@ -8,6 +8,224 @@
         "id": "https://MauAg1985.github.io/memoria_abierta2/audiencia-1_disco_2/canvas-1/canvas",
         "type": "Canvas",
         "duration": 4799.368,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-servicio-militar.json",
+            "label": {
+              "none": ["Servicio militar"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-miembros-de--jercito.json",
+            "label": {
+              "none": ["Miembros de éjercito"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-condiciones-de-salud.json",
+            "label": {
+              "none": ["Condiciones de salud"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-autoridades.json",
+            "label": {
+              "none": ["Autoridades"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-personas-detenidas-desaparecidas.json",
+            "label": {
+              "none": ["Personas detenidas desaparecidas"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-primera-declaraci-n-del-testigo.json",
+            "label": {
+              "none": ["Primera declaración del testigo"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-miembros-del-ejercito.json",
+            "label": {
+              "none": ["Miembros del ejercito"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-liturgia-formal-del-tribunal.json",
+            "label": {
+              "none": ["Liturgia formal del tribunal"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-situaci-n-legal-posterior-a-la-liberaci-n.json",
+            "label": {
+              "none": ["Situación legal posterior a la liberación"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-informaci-n-del-exterior.json",
+            "label": {
+              "none": ["Información del exterior"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-torturas-e-interrogatorios.json",
+            "label": {
+              "none": ["Torturas e interrogatorios"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-sensaciones-emociones.json",
+            "label": {
+              "none": ["Sensaciones/emociones"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-particularidades-de-la-reclusi-n-clandestina.json",
+            "label": {
+              "none": ["Particularidades de la reclusión clandestina"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-familiares-de-detenidos-as-desaparecidos-as.json",
+            "label": {
+              "none": ["Familiares de detenidos/as desaparecidos/as"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-miembros-del-clero.json",
+            "label": {
+              "none": ["Miembros del clero"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-condiciones-de-reclusi-n-clandestina.json",
+            "label": {
+              "none": ["Condiciones de reclusión clandestina"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-personas-relacionadas-con-la-detenci-n-del-ejercito.json",
+            "label": {
+              "none": ["Personas relacionadas con la detención del ejercito"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-vida-estudiantil.json",
+            "label": {
+              "none": ["Vida estudiantil"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-detenci-n-por-parte-del-ejercito.json",
+            "label": {
+              "none": ["Detención por parte del ejercito"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-detenidos-as-desaparecidos-as.json",
+            "label": {
+              "none": ["Detenidos/as desaparecidos/as"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-lugar-de-detenci-n-clandestina.json",
+            "label": {
+              "none": ["Lugar de detención clandestina"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-juramento-como-testigo.json",
+            "label": {
+              "none": ["Juramento como testigo"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-datos-personales.json",
+            "label": {
+              "none": ["Datos Personales"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-relato-del-secuestro.json",
+            "label": {
+              "none": ["Relato del secuestro"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-personas-relacionadas.json",
+            "label": {
+              "none": ["Personas relacionadas"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-relato-de-la-liberaci-n.json",
+            "label": {
+              "none": ["Relato de la liberación"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/memoria_abierta2/annotations/audiencia-1_disco_2-canvas-1-responsables-de-la-detenci-n-clandestina.json",
+            "label": {
+              "none": ["Responsables de la detención clandestina"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://MauAg1985.github.io/memoria_abierta2/audiencia-1_disco_2/canvas-1/paintings",
